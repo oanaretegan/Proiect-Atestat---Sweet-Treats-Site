@@ -7,7 +7,6 @@ A responsive web application developed as a high school professional skills cert
 * **Styling:** CSS3 (Custom variables, Flexbox, Responsive Design)
 * **Scripting & Interactivity:** JavaScript, jQuery
 * **Icons & Fonts:** Font Awesome, Google Fonts (`Georama`, `Poppins`, `Paytone One`)
-* **Version Control:** Git, GitHub
 
 ##  Key Features
 * **Interactive Navigation:** Responsive header with a mobile-friendly toggle menu powered by jQuery.
